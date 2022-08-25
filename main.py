@@ -11,10 +11,10 @@ def hook():
     session.post(webhook,json = {"content":message,"username":username})
     
     while True:
-        for i in range(23):
+        for i in range(15):
             threading.Thread(target=hook).start()
 hook()
 
-for i in range(23):
+for i in range(15):
     threading.Thread(target=hook).start()
 hook()
