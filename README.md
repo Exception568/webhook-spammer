@@ -1,2 +1,2 @@
 # very fast webhook-spammer 🥵🥵
-**More features soon+will remove useless lines of codes**
+**More features soon useless lines of code will be removed
