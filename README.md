@@ -1,2 +1,2 @@
-# very fast webhook-spammer 🥵🥵
+# very fast webhook-spammer
 **More features soon**
